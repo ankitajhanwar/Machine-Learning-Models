@@ -1,2 +1,2 @@
-# E2E_DS_Python
-E2E_DS_Python
+# ML Algorithms
+This is a repository of all ML algorithms required for getting a good hold over ML
